@@ -5,7 +5,8 @@ def main(a,b):
         a: int
         b: int
     Returns:
-        bool
+        bool        
     """
     # Write your code here
-    return 
+    return a!=b
+print(main(3,5))
